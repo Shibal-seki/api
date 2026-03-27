@@ -7,6 +7,7 @@ dans ce projet, j’ai développé un client en ligne de commande (CLI) en Bash 
 
 L’objectif était de pouvoir gérer les groupes, les applications et les incidents directement depuis le terminal, sans passer par une interface web ou Postman.
 
+
 ⚙️ 🧠 1. PRINCIPE GÉNÉRAL (2 min)
 
 Mon script repose sur le principe des API REST.
